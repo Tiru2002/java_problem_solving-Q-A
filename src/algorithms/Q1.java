@@ -1,7 +1,8 @@
-//Q1.Ask user to enter name and greet him with "Hello"
-
 package algorithms;
+
+// Q1.Ask user to enter name and greet him with "Hello"
 import java.util.Scanner;
+
 
 public class Q1 {
 
