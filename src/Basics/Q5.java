@@ -1,4 +1,4 @@
-package algorithms;
+package Basics;
 
 // Q5.Calculate Total marks of a student with 5 subjects
 

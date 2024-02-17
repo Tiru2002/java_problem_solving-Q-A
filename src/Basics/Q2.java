@@ -1,4 +1,4 @@
-package algorithms;
+package Basics;
 
 //Q2.To multiply two numbers and display the result
 

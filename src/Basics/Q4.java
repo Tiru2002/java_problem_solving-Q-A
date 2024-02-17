@@ -1,4 +1,4 @@
-package algorithms;
+package Basics;
 
 //Q4.Ask user for the year and display if it is leap year or non leap year
 import java.util.Scanner;
@@ -11,7 +11,7 @@ public void  checkLeapYear() {
      sc.close();
 
      if (year % 4 == 0 && year % 100 !=0 ||  year % 400 == 0) {
-          
+
      		System.out.println(year + "is a Leap Year.");
      	
      }else{

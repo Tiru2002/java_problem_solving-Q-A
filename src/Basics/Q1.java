@@ -1,4 +1,4 @@
-package algorithms;
+package Basics;
 
 // Q1.Ask user to enter name and greet him with "Hello"
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package algorithms;
+package Basics;
 /* Q6.Enhance above to calculate average marks of  student. Then find the grade and show. Grade details given below.
  >= 90% Grade A
  >=70% and <90% Grade B

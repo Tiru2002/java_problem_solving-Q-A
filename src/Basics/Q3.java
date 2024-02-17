@@ -1,4 +1,4 @@
-package algorithms;
+package Basics;
 
 //Q3.Ask user for the age and display if eligible for vote or not
 import java.util.Scanner;
