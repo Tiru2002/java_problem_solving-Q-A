@@ -11,7 +11,7 @@ public class Q10 {
             System.out.println(num+"is not a prime");
         }
        else{
-            for(int i=2;i<=num;){
+            for(int i=2;i<num;i++){
                 if(num%i==0){
                     System.out.println(num + "is a not  Prime number");
                     break;
