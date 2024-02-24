@@ -1,7 +1,6 @@
 package intermittent;
 
 //Q6.To check the number is armstrong number or not 
-import java.util.Scanner;
 
 public class Q5{
 public static void main(String[] args) {
