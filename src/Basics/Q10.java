@@ -21,7 +21,11 @@ public class Q10 {
             System.out.println(n+"  is a prime number");
           }
           else{
+<<<<<<< HEAD
             System.out.println(n + " is not a prime number");
+=======
+            System.err.println(n + "is not a prime number");
+>>>>>>> 6d5a0c1996449e99df6d7672303c34ca9a43ce8b
           }
        sc.close();
     }}
