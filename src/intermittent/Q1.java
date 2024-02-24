@@ -1,5 +1,5 @@
 package intermittent;
-//write a program to reverse a number
+//Q1.write a program to reverse a number
 public class Q1 {
 
     public static void main(String[] args) {
