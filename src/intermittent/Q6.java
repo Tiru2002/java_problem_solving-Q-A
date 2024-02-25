@@ -14,7 +14,7 @@ public class Q6 {
         }
     }
      if(n==sum)
-         System.out.println(" number"+n+" is a perfect number");
+         System.out.println(" number "+n+" is a perfect number");
      else  
          System.out.println("number "+n +" is not a perfect number"); 
      
