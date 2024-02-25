@@ -16,8 +16,8 @@ public class Q10 {
                 sec=a[i];
             }
             
-          
-    }    
+        }   
+       
         System.out.println("the first highest number is " + high);
         System.out.println("the second highest number is " + sec);
     }
