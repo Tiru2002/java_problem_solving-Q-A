@@ -1,6 +1,6 @@
 
 package intermittent;
-// soring n numbers
+// Q11.soring n numbers
 
 import java.util.Scanner;
 public class Q11 {
@@ -9,10 +9,10 @@ public class Q11 {
             for(int j=i+1;j<arr.length;j++){
                 if(arr[j]<arr[i]){
                     int temp=arr[i];
-                    arr[j]=arr[i];
-                    arr[i]=temp;
+                    arr[i]=arr[j];
+                    arr[j]=temp;
                 }
-                
+            
             }
             System.out.print(arr[i]+"|");
         }
@@ -28,11 +28,11 @@ public class Q11 {
         for (int i=0 ;i<size ; i++)  {
             a[i] = sc.nextInt(); 
         }
-        System.out.println(" before sorting : ");
+        System.out.print(" before sorting : ");
         for(int i=0 ; i<a.length; i++ ) {
-          System.err.println(a[i]);
+          System.err.print(a[i] +"  |");
         }
-        System.out.println("\n after sorting : \n");
+        System.out.print("\n after sorting : ");
         Sorting(a);
       sc.close();
     }
