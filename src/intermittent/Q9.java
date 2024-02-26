@@ -3,7 +3,7 @@ package intermittent;
 public class Q9 {
 
     static void check(int arr[]) {
-        // Initialize maximum element
+       
         int max = arr[0];
         int n = arr.length;
 
