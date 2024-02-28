@@ -1,4 +1,4 @@
-package Basic;
+package intermediate;
 
 public class SecondLargestNumberInAnArray {
 
