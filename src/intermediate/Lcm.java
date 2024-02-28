@@ -18,5 +18,6 @@ public class Lcm{
         }
         int r=a*b/gcd;
         System.out.println( a +" and "+b+" LCM is: "+r);
+        sc.close();
     }
 }
