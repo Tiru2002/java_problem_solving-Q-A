@@ -16,6 +16,7 @@ public class DecimalToBinary {
 
         }
         System.out.println(temp+ " in binary :"+ch);
+        sc.close();
         
     }
 }
