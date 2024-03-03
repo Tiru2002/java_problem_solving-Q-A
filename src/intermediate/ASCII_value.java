@@ -11,8 +11,7 @@ public static void main(String[] args) {
     char ch=sc.next().charAt(0);
     int asciiValue= (int)ch;
     System.out.println(ch+ " =  "+asciiValue);
-
-
+    sc.close();
 }
     
 }
