@@ -12,11 +12,11 @@ public class DecimalToBinary {
         while(num!=0){
             int rem=num%2;
             ch=rem+ch;
-            num/=211;
+            num/=2;
 
         }
         System.out.println(temp+ " in binary :"+ch);
         sc.close();
-        
+
     }
 }
